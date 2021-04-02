@@ -4,4 +4,4 @@ Estudiante de la carrera de Ingeniería de Sistemas de la Universidad Privada de
 Con interés en las áreas de Desarrollo Web, Base de Datos, Desarrollo de aplicativos móviles para Android y Desarrollo de
 Videojuegos, destacando en Desarrollo Web. Persona responsable y ordenada, con predisposición
 al trabajo en equipo, solución de conflictos, con facilidad de palabra y empática.
-
+## Skills:
