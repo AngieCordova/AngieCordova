@@ -5,3 +5,4 @@ Con interés en las áreas de Desarrollo Web, Base de Datos, Desarrollo de aplic
 Videojuegos, destacando en Desarrollo Web. Persona responsable y ordenada, con predisposición
 al trabajo en equipo, solución de conflictos, con facilidad de palabra y empática.
 ## Skills:
+![Angie Cordova Castro (1)](https://user-images.githubusercontent.com/80009673/113462674-ae8aea00-93e7-11eb-9b28-8e0d4ea8c774.png)
